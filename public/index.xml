@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qianggang Ding</title>
+    <link>http://mrdqg.com/</link>
+    <description>Recent content on Qianggang Ding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://mrdqg.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://mrdqg.com/about/</link>
+      <pubDate>Wed, 09 Dec 2020 23:05:26 +0800</pubDate>
+      
+      <guid>http://mrdqg.com/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

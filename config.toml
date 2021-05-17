@@ -1,0 +1,6 @@
+baseURL = "http://mrdqg.com/"
+languageCode = "en-us"
+title = "Qianggang Ding"
+theme = "contrast-hugo"
+[blackfriday]
+  extensions = ["hardLineBreak"]
